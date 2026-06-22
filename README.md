@@ -25,5 +25,3 @@
 
 ## Mode
 
-```text
-stealth / clean / precise
