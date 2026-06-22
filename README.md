@@ -1,16 +1,29 @@
-## Hi there 👋
+# lolito25
 
-<!--
-**lolito25/lolito25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Código silencioso, sistemas precisos.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,100:111827&height=140&section=header&text=&fontSize=0" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Silent%20Mode-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Precision-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Signal-Low-111827?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
+
+---
+
+## Core
+
+- Código silencioso
+- Sistemas precisos
+- Estilo discreto
+- Presencia mínima
+
+---
+
+## Mode
+
+```text
+stealth / clean / precise
